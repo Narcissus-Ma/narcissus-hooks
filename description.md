@@ -33,3 +33,8 @@ pnpm run test 测试用例名称
 2. 登陆 npm login
 3. 修改 package.json 信息
 4. pnpm publish
+
+## 发布静态站点
+
+1. 创建 accessToken 并配置到 actions
+2.
