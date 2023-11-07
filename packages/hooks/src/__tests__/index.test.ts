@@ -1,10 +1,10 @@
 /* eslint-disable import/namespace */
-import * as encodeHooks from '..';
+import * as narcissusHooks from '..';
 
-describe('encodeHooks', () => {
+describe('narcissusHooks', () => {
   test('exports modules should be defined', () => {
-    Object.keys(encodeHooks).forEach((module) => {
-      expect(encodeHooks[module]).toBeDefined();
+    Object.keys(narcissusHooks).forEach((module) => {
+      expect(narcissusHooks[module]).toBeDefined();
     });
   });
 });

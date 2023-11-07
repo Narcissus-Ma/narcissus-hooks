@@ -10,9 +10,9 @@
     "baseUrl": ".",
     "paths": {
       "@/*": ["src/*"],
-      "encodeHooks": ["./packages/hooks/src/index.ts"],
+      "narcissusHooks": ["./packages/hooks/src/index.ts"],
       "encode-hooks": ["./packages/hooks/src/index.ts"],
-      "encodeHooks/lib/*": ["./packages/hooks/src/*"],
+      "narcissusHooks/lib/*": ["./packages/hooks/src/*"],
       "encode-hooks/lib/*": ["./packages/hooks/src/*"]
     },
     "allowSyntheticDefaultImports": true,

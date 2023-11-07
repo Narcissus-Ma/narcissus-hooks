@@ -15,13 +15,12 @@
 ## 创建一个 hooks
 
 1. 业务 hooks 的源码
-2. demo 让人知道如何去用
+2. demo 让人知道如何去用, md 文档编辑
 3. hooks 健壮性 test case
-4. npm 代码
+4. 发布 npm 包
 5. 发布静态站点 cdn githubio git action 发布动作
    1. git workflow master push 检查 test
    2. master push dumi dist 发布到 github io
-   3.
 
 ## 执行单个测试用例
 

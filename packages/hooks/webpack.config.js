@@ -6,8 +6,8 @@ const path = require('path');
 module.exports = merge(common, {
   entry: './es/index.js',
   output: {
-    filename: 'encodeHooks.js',
-    library: 'encodeHooks',
+    filename: 'narcissusHooks.js',
+    library: 'narcissusHooks',
     path: path.resolve(__dirname, './dist'),
   },
 });
