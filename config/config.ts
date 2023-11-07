@@ -8,7 +8,7 @@ export default {
     type: 'none',
     exclude: [],
   },
-  publicPath: '/encode-hooks/',
+  publicPath: '/narcissus-hooks/',
   history: { type: 'hash' },
   extraBabelPlugins: [
     [
