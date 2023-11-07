@@ -4,7 +4,7 @@
  */
 
 import React from 'react';
-import { useBoolean } from 'narcissusHooks';
+import { useBoolean } from 'narcissus-hooks';
 
 export default () => {
   const [state, { toggle, setTrue, setFalse }] = useBoolean(true);

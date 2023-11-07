@@ -11,9 +11,9 @@
     "paths": {
       "@/*": ["src/*"],
       "narcissusHooks": ["./packages/hooks/src/index.ts"],
-      "encode-hooks": ["./packages/hooks/src/index.ts"],
+      "narcissus-hooks": ["./packages/hooks/src/index.ts"],
       "narcissusHooks/lib/*": ["./packages/hooks/src/*"],
-      "encode-hooks/lib/*": ["./packages/hooks/src/*"]
+      "narcissus-hooks/lib/*": ["./packages/hooks/src/*"]
     },
     "allowSyntheticDefaultImports": true,
     "skipLibCheck": true,
