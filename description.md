@@ -37,4 +37,4 @@ pnpm run test 测试用例名称
 ## 发布静态站点
 
 1. 创建 accessToken 并配置到 actions
-2.
+2. 注意项目中的路径匹配

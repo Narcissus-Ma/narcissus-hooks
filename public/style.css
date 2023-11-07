@@ -1,9 +1,9 @@
 .__dumi-default-navbar-logo {
-  color: transparent !important;
+  /* color: transparent !important; */
 }
 
 .__dumi-default-layout-hero img {
-  width: 250px;
+  width: 500px;
 }
 
 a[title='站长统计'] {
