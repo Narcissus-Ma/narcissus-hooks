@@ -29,6 +29,7 @@ export default {
   hash: true,
   alias: {
     narcissusHooks: `${process.cwd()}/packages/hooks/src/index.ts`,
+    'narcissus-hooks': `${process.cwd()}/packages/hooks/src/index.ts`,
   },
   resolve: {
     includes: ['docs', 'packages/hooks/src'],
@@ -43,6 +44,7 @@ export default {
   navs: [
     { title: '指南', path: '/guide' },
     { title: 'Hooks', path: '/hooks' },
+    { title: 'GitHub', path: 'https://github.com/Narcissus-Ma/narcissus-hooks' },
   ],
   menus: {
     '/': [

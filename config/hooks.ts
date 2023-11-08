@@ -1,6 +1,6 @@
 export const menus = [
   {
     title: '状态',
-    children: ['useToggle', 'useBoolean'],
+    children: ['useToggle', 'useBoolean', 'useLatest', 'useUnmount', 'useTitle'],
   },
 ];
